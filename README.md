@@ -27,3 +27,15 @@ While building this project, I practiced:
 * Using radio buttons and textareas
 * Organizing forms with fieldsets
 * Basic webpage structure
+
+## Future Improvements
+
+* Add form validation
+* Improve styling with CSS
+* Add more input types
+* Make the form responsive
+* Add JavaScript functionality
+
+## Project Status
+
+Completed as a beginner HTML practice project and will be improved as I learn more web development concepts.
